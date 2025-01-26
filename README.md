@@ -36,4 +36,4 @@ Here are some of the technologies and tools I use:
 
 Thank you for visiting my GitHub! Feel free to explore my repositories and collaborate. 😊
 
-![](img/wowZinzin.png)
+![](img/WowZinzinWow.png)
