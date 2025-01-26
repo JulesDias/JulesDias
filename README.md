@@ -1,5 +1,6 @@
 # 👋 Welcome to my GitHub!
 
+![](img/helldivers-terminid.gif)
 
 My name is **Jules Dias**, a student at **ECE Paris** passionate about **cybersecurity** and cutting-edge technologies.
 
