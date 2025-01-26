@@ -20,7 +20,7 @@ My name is **Jules Dias**, a student at **ECE Paris** passionate about **cyberse
 
 ## 🛠️ Skills & Tools  
 Here are some of the technologies and tools I use:  
-- **Languages**: Python, Bash, C  
+- **Languages**: Python, Bash, C, C#, Java, React, ...
 - **Security tools**: Wireshark, Nmap, Metasploit, Burp Suite  
 - **Systems**: Linux (Kali, Ubuntu), Windows Server  
 - **Cloud platforms**: AWS, Azure
