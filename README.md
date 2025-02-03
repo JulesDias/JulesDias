@@ -26,7 +26,6 @@ Here are some of the technologies and tools I use:
 - **Cloud platforms**: AWS, Azure
 - **My TryHackMe profile**: [WhosJulius](https://tryhackme.com/r/p/WhosJulius)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/WhosJulius.png" alt="Your Image Badge" />
 
 ---
 
